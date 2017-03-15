@@ -1,18 +1,29 @@
 {
-  "name": "ember-quickstart",
-  "version": "0.0.0",
-  "description": "Small description for ember-quickstart goes here",
+  "name": "ember-test-tdd",
+  "version": "1.0.0",
+  "description": "Small description for ember-test-tdd goes here",
   "license": "MIT",
   "author": "",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "keywords": [
+    "node",
+    "ember"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kbespalyi/ember-tdd"
+  },
+  "main": "app/app.js",
   "scripts": {
     "build": "ember build",
     "start": "ember server",
     "test": "ember test"
+  },
+  "dependencies": {
+
   },
   "devDependencies": {
     "broccoli-asset-rev": "^2.4.5",
