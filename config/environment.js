@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'ember-quickstart',
+    modulePrefix: 'ember-test-tdd',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
