@@ -62,4 +62,5 @@ In many ways, we’re splitting up our applications into two contained testing a
  * Server-side unit tests
  * Client-side unit tests
  * Client-side functional tests
+
 Adding a lot more test weight to your application might not seem like the most attractive option. Yet, its a consequence of having complex processing on the server- and client-sides of your application. There’s a lot more space to be covered, and understanding more of what’s going on is essential!
